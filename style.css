@@ -16,7 +16,7 @@ h1, h2, h3, h4, h5 h6,
   font-family: 'Merriweather', serif;
   font-weight:900;
 }
-h2, .h2{
+h2, h3, .h2{
   margin-bottom:30px;
 }
 .full_width_header{
@@ -58,4 +58,7 @@ iframe{
   max-width:720px;
   margin:0 auto;
   display:block;
+}
+.about_me{
+  padding-left: 300px
 }
